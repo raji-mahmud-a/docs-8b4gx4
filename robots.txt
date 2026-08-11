@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-usbtke.indocuan-vip.sbs/sitemap.xml
